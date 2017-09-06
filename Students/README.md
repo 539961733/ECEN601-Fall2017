@@ -7,6 +7,8 @@
 * Desik Rengarajan, [DesikRengarajan](https://github.com/DesikRengarajan)
 * Haosi Liu, [Billiam0706](https://github.com/Billiam0706)
 * Pallavi Premkumar, [pallavikumarp](https://github.com/Pallavikumarp)
+* Anrui Liang, [539961733](https://github.com/539961733)
+
 
 ## Teaching Team
 
